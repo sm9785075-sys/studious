@@ -1,0 +1,2 @@
+# studious
+One-Click.app
